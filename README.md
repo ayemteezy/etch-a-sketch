@@ -182,7 +182,7 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 ## Contact
 
 - Laurence Lester Cariño (Teezy) - [@ayemteezy\_](https://x.com/ayemteezy_) - <laurencelestercarino@gmail.com>
-- Project Link: [https://github.com/ayemteezy/repo_name](https://github.com/ayemteezy/repo_name)
+- Project Link: [https://github.com/ayemteezy/etch-a-sketch](https://github.com/ayemteezy/etch-a-sketch)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

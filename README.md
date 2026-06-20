@@ -111,7 +111,7 @@ This project runs entirely in the browser and does not require a complex backend
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com
+   git clone https://github.com/ayemteezy/etch-a-sketch
    ```
 
 2. **Navigate into the project directory**
